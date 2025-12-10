@@ -31,8 +31,8 @@ cls
 echo [SETUP] Membuat struktur folder simulasi...
 echo.
 
-set "SOURCE=%USERPROFILE%\Desktop\SimulasiDrive_D"
-set "DEST=%USERPROFILE%\Desktop\SimulasiDrive_C"
+set "SOURCE=%USERPROFILE%\Desktop\project6\SimulasiDrive_D"
+set "DEST=%USERPROFILE%\Desktop\project6\SimulasiDrive_C"
 
 echo Sumber data  : %SOURCE%
 echo Folder backup: %DEST%
@@ -95,8 +95,8 @@ cls
 echo [RECOVERY] Menyalin data backup...
 echo.
 
-set "SOURCE=%USERPROFILE%\Desktop\SimulasiDrive_D"
-set "DESTROOT=%USERPROFILE%\Desktop\SimulasiDrive_C"
+set "SOURCE=%USERPROFILE%\Desktop\project6\SimulasiDrive_D"
+set "DESTROOT=%USERPROFILE%\Desktop\project6\SimulasiDrive_C"
 
 :: Format tanggal universal
 for /f "tokens=1-3 delims=/" %%a in ("%date%") do (

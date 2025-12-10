@@ -1,0 +1,11 @@
+================================================
+                 RECOVERY LOG
+================================================
+Tanggal : 10-12-2025
+Waktu   : 20:47
+Sumber  : C:\Users\faizm\Desktop\project6\SimulasiDrive_D
+Tujuan  : C:\Users\faizm\Desktop\project6\SimulasiDrive_C\DataRecovery_20251210_2047
+Jumlah Folder : 40
+Jumlah File   : 180
+Status  : BERHASIL
+================================================
